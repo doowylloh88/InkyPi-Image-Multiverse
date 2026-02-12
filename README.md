@@ -29,7 +29,9 @@
     
 -   The **free** tier still requires a **credit card**
 (Register here: [Google Gemini](https://aistudio.google.com/app/api-keys))
-    
+
+-   The models in the current code are pay-as-you-go (just like the Open AI models)
+
 -   Create a **project** and a **billing account**, then **link** billing to the project — otherwise the API will return a **429** error
     
 ### AI Horde
