@@ -59,7 +59,7 @@
 Install the plugin using the InkyPi CLI, providing the plugin ID & GitHub repository URL:
 
 ```bash
-inkypi install doowylloh88 https://github.com/doowylloh88/InkyPi-Image-Multiverse
+inkypi plugin install ai_image_multiverse https://github.com/doowylloh88/InkyPi-Image-Multiverse
 ```
 
 ## Development-status
